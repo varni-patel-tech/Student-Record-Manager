@@ -1,5 +1,4 @@
-# Learning Progress
-# Student-Record-Manager# Student Record Manager (C)
+# Student-Record-Manager
 
 A beginner-friendly, menu-driven Student Record Management System developed using the C programming language.
 
